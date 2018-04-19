@@ -11,6 +11,6 @@ public class HelloResource {
 	
 	@GetMapping
 	public String hello(){
-		return "Hello You";
+		return "Hello Yuchi Cloud!";
 	}
 }
